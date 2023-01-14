@@ -1,0 +1,14 @@
+# Normal(400), semibold(600), bold(700) font weight needed.
+fonts:
+  # - name: Space Grotesk
+  #   googleFonts: Space+Grotesk:wght@400;600;700
+  # - name: Barlow
+  #   googleFonts: Barlow:wght@400;600;700
+  - name: DM Sans
+    googleFonts: DM+Sans:wght@400;600;700
+
+colors:
+  light:
+    theme: "#8f9ac1"
+  dark:
+    theme: "#8f9ac1"
