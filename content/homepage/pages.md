@@ -1,14 +1,14 @@
 ---
-title: Pages
+title: Projects
 draft: false
 # Section you want to display
 section: posts
 # Pages count
 count: 5
 # Options: card, plain and masonry.
-style: plain
+style: masonry
 
-weight: 2
+weight: 3
 widget:
   handler: pages
 
@@ -30,5 +30,5 @@ widget:
     # Options: center, top, right, bottom, left.
     position:
     # Options: fixed, local, scroll.
-    attachment: 
+    attachment:
 ---

@@ -2,7 +2,7 @@
 title: Gyeongmin "Min" Lee
 draft: false
 role: Full-Stack Developer  ·  Open to Work
-avatar: images/icon.png
+avatar: /profile_image.png
 bio: Full-Stack Developer with a passion for using technology to address real-world issues.
 # organization:
 #   name: Example Organization
@@ -10,27 +10,30 @@ bio: Full-Stack Developer with a passion for using technology to address real-wo
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:gminlee.316@gmail.co
+    url: mailto:gminlee.316@gmail.com
   - icon: linkedin
     iconPack: fab
     url: https://www.linkedin.com/in/gyeongmin-lee/
   - icon: github
     iconPack: fab
     url: https://github.com/gyeongmin-lee
+  - icon: file-invoice
+    iconPack: fas
+    url: https://drive.google.com/file/d/1-57qTM-GSVajFapcjA4ey-zCZS58NAC8/view?usp=sharing
 
 weight: 1
 widget:
   handler: about
 
   # Options: sm, md, lg and xl. Default is md.
-  width:
+  width: md
 
   sidebar:
     # Options: left and right. Leave blank to hide.
     position:
     # Options: sm, md, lg and xl. Default is md.
     scale:
-  
+
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
     color: secondary
@@ -40,24 +43,21 @@ widget:
     # Options: center, top, right, bottom, left.
     position:
     # Options: fixed, local, scroll.
-    attachment: 
+    attachment:
 ---
 
-## Self Introduction
+## About Myself
 
-Cras ex dui, tristique a libero eget, consectetur semper ligula. Nunc augue arcu, malesuada a nisi et, molestie finibus metus. Sed lacus odio, ultricies a nisl vitae, sollicitudin tempor ipsum. Vivamus quis feugiat arcu. Sed mi nunc, efficitur quis tellus vitae, posuere mattis metus. Phasellus in mattis dui. Nullam blandit, augue non ullamcorper dapibus, lacus dui molestie massa, in iaculis purus lectus eu lectus. Duis hendrerit lacinia tellus, sit amet feugiat dolor placerat id. Aenean ac velit massa. Vivamus feugiat dui at magna viverra, ut dictum nunc rutrum. Duis eget sapien finibus, lobortis orci id, vestibulum tellus. Maecenas lobortis urna libero, quis fermentum lectus lobortis nec. Nullam laoreet volutpat libero, ac mattis magna ullamcorper quis. Duis eget ipsum eu nisi mattis cursus et vitae turpis.
+Hi 👋 I'm Min, a software engineer with experience in Front-end development and AWS. I'm passionate about using technology to address real-world issues. I'm currently looking for a full-time position in British Columbia.
 
-Aliquam pretium diam eget leo feugiat finibus. Donec malesuada commodo ipsum. Aenean a massa in lacus venenatis vestibulum. Duis vel sem quis elit iaculis consectetur et quis dolor. Morbi eu ipsum hendrerit, malesuada ante sed, dapibus est. Suspendisse feugiat nulla ut gravida convallis. Phasellus id massa posuere, rhoncus justo ut, porttitor dolor. Nulla ultrices malesuada egestas. Nunc fermentum tincidunt sem ac vulputate. Donec mollis sollicitudin justo eget varius. Donec ornare velit et felis blandit, id molestie sapien lobortis. Morbi eget tristique justo. Mauris posuere, nibh eu laoreet ultricies, ligula erat iaculis sapien, vel dapibus lacus libero ut diam. Etiam viverra ante felis, et scelerisque nunc pellentesque vitae. Praesent feugiat dictum molestie.
+In my spare time, I enjoy researching front-end frameworks and how they can be used to build better user experiences. I also enjoy reading books on software development and personal growth. Some of my favourites are <a href="https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer" target="_blank">The Pragmatic Programmer</a> and <a href="https://www.goodreads.com/book/show/44882.Code" target="_blank">Code: The Hidden Language of Computer Hardware and Software</a>.
 
-## Details  
+I graduated with a diploma in Computer Systems Technology from BCIT in 2020, concentrating in Web Development and Cloud Computing. I gained extensive practical experience through various projects.
 
-Nunc pellentesque vitae:
-- Morbi accumsan nibh efficitur diam molestie, non dignissim diam facilisis.
-- Donec dignissim leo in mollis faucibus.
-- Donec blandit lacus a pellentesque fermentum.
+Other things I enjoy (in no particular order): bass guitar, skateboarding, Manchester United, lego, and bible study.
 
-Donec mollis sollicitudin:
-- Nunc dictum purus ornare purus consectetur, eu pellentesque massa ullamcorper.
-- Aliquam eu leo vitae justo aliquam tincidunt.
-- Fusce non massa id augue interdum feugiat sed et nulla.
-- Vivamus molestie augue in tristique laoreet.
+## Skills
+
+- **Front End**: React, Redux, TypeScript, JavaScript (ES6+), HTML, CSS, SCSS, Flutter, npm, webpack
+- **Back End**: AWS (SAM / Lambda - Node.js / SQS / DynamoDB / EC2 / S3 ), Google Firebase, SQL
+- **Other**: Git, GitHub, Docker

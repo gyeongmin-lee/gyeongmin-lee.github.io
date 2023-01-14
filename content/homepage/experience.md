@@ -26,7 +26,7 @@ experiences:
     writeup: >
       **Aliquam** at **rutrum** ante. In sed quam faucibus.
 
-weight: 3
+weight: 2
 widget:
   handler: experience
 
