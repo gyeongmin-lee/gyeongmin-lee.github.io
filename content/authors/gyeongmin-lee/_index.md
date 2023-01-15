@@ -26,7 +26,7 @@ social:
 
 Hi 👋 I'm Min, a software engineer with experience in Front-end development and AWS. I'm passionate about using technology to address real-world issues. I'm currently looking for a full-time position in British Columbia.
 
-In my spare time, I enjoy researching front-end frameworks and how they can be used to build better user experiences. I also enjoy reading books on software development and personal growth. Some of my favourites are <a href="https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer" target="_blank">The Pragmatic Programmer</a> and <a href="https://www.goodreads.com/book/show/44882.Code" target="_blank">Code: The Hidden Language of Computer Hardware and Software</a>.
+In my spare time, I enjoy researching front-end frameworks and how they can be used to build better user experiences. I also enjoy reading books on software development and personal growth. Some of my favourites are [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) and [Code: The Hidden Language of Computer Hardware and Software](https://www.goodreads.com/book/show/44882.Code).
 
 I graduated with a diploma in Computer Systems Technology from BCIT in 2020, concentrating in Web Development and Cloud Computing. I gained extensive practical experience through various projects.
 

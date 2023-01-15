@@ -21,10 +21,10 @@ Cross-platform mobile application that lets users add captions to songs on Spoti
 
 ## Links
 
-- <a href="https://play.google.com/store/apps/details?id=com.minlee.storify&pli=1" target="_blank">Play Store</a>
+- [Play Store](https://play.google.com/store/apps/details?id=com.minlee.storify&pli=1)
 - App Store - To be launched
-- <a href="https://github.com/gyeongmin-lee/Storify" target="_blank">GitHub</a>
-- <a href="https://www.figma.com/file/zVlDPaq62mBlO42UqvBGZh/Storify?node-id=0%3A1&t=v6PFtGH8VsHBoBs1-1" target="_blank">Figma Mockup</a>
+- [GitHub](https://github.com/gyeongmin-lee/Storify)
+- [Figma Mockup](https://www.figma.com/file/zVlDPaq62mBlO42UqvBGZh/Storify?node-id=0%3A1&t=v6PFtGH8VsHBoBs1-1)
 
 ## How It Was Built
 
@@ -47,8 +47,8 @@ As this was the first time launching a user-facing service, I didn't have much e
 
 ## Built With
 
-- <a href="https://flutter.dev/" target="_blank">Flutter</a>
-- <a href="https://cloud.google.com/firestore/docs/client/get-firebase" target="_blank">Google Firebase</a>
+- [Flutter](https://flutter.dev/)
+- [Google Firebase](https://cloud.google.com/firestore/docs/client/get-firebase)
 
 ## Stats
 
