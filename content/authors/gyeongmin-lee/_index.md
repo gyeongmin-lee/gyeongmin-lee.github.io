@@ -1,40 +1,39 @@
 ---
 title: Gyeongmin "Min" Lee
-role: Full-Stack Developer
-bio: Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos.
+draft: false
+role: Full-Stack Developer  ·  Open to Work
+avatar: /profile_image.png
+bio: Full-Stack Developer with a passion for using technology to address real-world issues.
 # organization:
 #   name: Example Organization
 #   url: https://example.com/
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:example@example.com
-  - icon: twitter
+    url: mailto:gminlee.316@gmail.com
+  - icon: linkedin
     iconPack: fab
-    url: https://example.com/
+    url: https://www.linkedin.com/in/gyeongmin-lee/
   - icon: github
     iconPack: fab
-    url: https://example.com/
+    url: https://github.com/gyeongmin-lee
+  - icon: file-invoice
+    iconPack: fas
+    url: https://drive.google.com/file/d/1-57qTM-GSVajFapcjA4ey-zCZS58NAC8/view?usp=sharing
 ---
 
-## Vestibulum vel arcu
+## About Myself
 
-Donec interdum justo sed posuere imperdiet. Quisque nec mauris eu erat mattis egestas in vitae nisl. Sed nisl augue, congue sed quam quis, tempor tempus nibh. Pellentesque accumsan in quam a interdum. Morbi iaculis venenatis lacinia. Mauris quis nisl vitae nisi mollis placerat id vel ligula. Integer vitae arcu ac leo iaculis rhoncus id vitae dolor. Fusce quis nisl tincidunt, vulputate dolor quis, mollis massa. Donec congue velit at risus cursus, eu auctor dolor rhoncus. In porta at dolor at eleifend. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque vehicula mi at dapibus sodales. Morbi accumsan dictum maximus. In eget leo in purus commodo vestibulum. Duis et velit ex.
+Hi 👋 I'm Min, a software engineer with experience in Front-end development and AWS. I'm passionate about using technology to address real-world issues. I'm currently looking for a full-time position in British Columbia.
 
-Nam turpis ligula, commodo eu nunc eget, rutrum convallis dui. Integer posuere massa nibh, sit amet hendrerit lectus facilisis sed. Pellentesque ut auctor urna. Vestibulum cursus varius enim in ullamcorper. Sed sed risus ac lorem porttitor rhoncus commodo ut nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed eu urna auctor, scelerisque enim nec, eleifend nisl. Vestibulum nec mauris commodo, egestas justo id, consequat leo. Mauris diam justo, sagittis vel posuere a, imperdiet vel sem. Curabitur eget arcu euismod, consectetur arcu non, posuere neque. Integer commodo dolor volutpat, gravida nunc in, tempus mauris. Suspendisse iaculis purus ut vehicula facilisis. Suspendisse vitae diam ipsum. In consequat vitae dui vitae tincidunt.
+In my spare time, I enjoy researching front-end frameworks and how they can be used to build better user experiences. I also enjoy reading books on software development and personal growth. Some of my favourites are <a href="https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer" target="_blank">The Pragmatic Programmer</a> and <a href="https://www.goodreads.com/book/show/44882.Code" target="_blank">Code: The Hidden Language of Computer Hardware and Software</a>.
 
-Nullam eleifend fringilla quam. Sed faucibus efficitur metus at rhoncus. Sed non nunc mollis, cursus ipsum suscipit, blandit mi. Morbi ac interdum massa, non congue ligula. Suspendisse porta condimentum finibus. Donec lobortis eget nisl posuere vehicula. Aenean in mi mollis nisl fermentum lobortis non at lacus. Suspendisse sagittis dolor vitae vehicula gravida. Mauris in dui eu arcu viverra eleifend. Vestibulum nibh sapien, elementum et viverra a, laoreet sit amet felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+I graduated with a diploma in Computer Systems Technology from BCIT in 2020, concentrating in Web Development and Cloud Computing. I gained extensive practical experience through various projects.
 
-## Nunc magna est
+Other things I enjoy (in no particular order): bass guitar, skateboarding, Manchester United, lego, and bible study.
 
-Donec porta:  
-- Aenean aliquam sapien id fermentum hendrerit.
-- Nullam quis augue id ante tempor suscipit sodales sed velit.
-- Sed at nulla consectetur, sodales nisl sed, luctus velit.
-- Morbi ornare purus at porttitor tristique.
+## Skills
 
-Gravida urna in: 
-- Maecenas blandit diam at massa hendrerit maximus.
-- Sed lacinia purus ac cursus tincidunt.
-- Maecenas posuere ante sed elit tempus porttitor.
-- Sed vel justo quis diam convallis hendrerit ac non mi. 
+- **Front End**: React, Redux, TypeScript, JavaScript (ES6+), HTML, CSS, SCSS, Flutter, npm, webpack
+- **Back End**: AWS (SAM / Lambda - Node.js / SQS / DynamoDB / EC2 / S3 ), Google Firebase, SQL
+- **Other**: Git, GitHub, Docker

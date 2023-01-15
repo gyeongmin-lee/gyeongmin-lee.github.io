@@ -7,7 +7,7 @@ theme: eureka
 # theme: wangchucheng.com/hugo-eureka
 # If you cannot access the Github mirror, you can also use the Gitee mirror: gitee.com/wangchucheng/hugo-eureka
 
-paginate: 3
+paginate: 10
 copyright: >
   © 2023 Gyeongmin Lee
 enableEmoji: true
