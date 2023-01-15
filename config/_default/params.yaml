@@ -16,8 +16,8 @@ style: custom
 
 # E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
 siteType: Person
-icon: images/icon.png
-publisherName: WANG Chucheng
+icon: profile_image.png
+publisherName: Gyeongmin Lee
 publisherLogo:
 
 highlight:
