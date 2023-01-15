@@ -6,7 +6,7 @@ section: categories/projects
 # Pages count
 count: 5
 # Options: card, plain and masonry.
-style: masonry
+style: card
 
 weight: 3
 widget:

@@ -1,7 +1,8 @@
 <style>
   :root {
     --color-eureka: {{ partial "utils/get-style-color" (dict "context" . "path" (slice "light" "theme")) }};
-    --fonts-eureka: {{ $fonts := partial "utils/get-style-fonts" (dict "context" . "param" "name") }}{{ range $index, $value := $fonts }}{{ if gt $index 0 }},{{ end }}{{ $value }}{{ else }}""{{ end }}
+    --fonts-eureka: {{ $fonts := partial "utils/get-style-fonts" (dict "context" . "param" "name") }}{{ range $index, $value := $fonts }}{{ if gt $index 0 }},{{ end }}{{ $value }}{{ else }}""{{ end }};
+    font-family: var(--fonts-eureka), ui-sans-serif, sans-serif;
   }
 
   .dark {
