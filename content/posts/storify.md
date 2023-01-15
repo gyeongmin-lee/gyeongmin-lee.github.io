@@ -11,7 +11,7 @@ series: []
 date: 2023-01-14T16:08:17-08:00
 lastmod: 2023-01-14T16:08:17-08:00
 featuredVideo:
-featuredImage: /storify_project.png
+featuredImage: /storify_project.jpg
 draft: false
 ---
 
