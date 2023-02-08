@@ -21,7 +21,7 @@ Streamlined onboarding process for meal delivery service
 
 ## Links
 
-- [Demo](https://main.d10rroua7pnjjo.amplifyapp.com/)
+- [Demo](https://meal-delivery-onboarding.vercel.app/)
 - [GitHub](https://github.com/gyeongmin-lee/meal-delivery-onboarding)
 - [Figma Mockup](https://www.figma.com/file/lbAJbX0B216dKD7vUoeKOv/Meal-Plan-Onboarding?node-id=0%3A1&t=urfIQGRQoPN6DyRO-1)
 
