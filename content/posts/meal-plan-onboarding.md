@@ -29,7 +29,7 @@ Streamlined onboarding process for meal delivery service
 
 I developed this application as a way to practice creating a streamlined onboarding process using React. The development process took about 10 hours in total, including 1 hour of research on other onboarding processes, 2 hours of creating a mockup in [Figma](https://www.figma.com/file/lbAJbX0B216dKD7vUoeKOv/Meal-Plan-Onboarding?node-id=0%3A1&t=urfIQGRQoPN6DyRO-1), and 7 hours of building the application itself.
 
-The application is a basic React App created with [Create React App](https://create-react-app.dev/), a tool that sets up a new project with a sensible file structure and development environment. I utilized [Redux Toolkit](https://redux-toolkit.js.org/), a library that simplifies the setup of a Redux store and provides a set of conventions for structuring the store and its associated logic, to manage the application's state.
+The application is a basic React App created with [Next.js](https://nextjs.org/). I utilized [Redux Toolkit](https://redux-toolkit.js.org/), a library that simplifies the setup of a Redux store and provides a set of conventions for structuring the store and its associated logic, to manage the application's state.
 
 ## Features
 
