@@ -41,5 +41,6 @@ The application is a basic React App created with [Next.js](https://nextjs.org/)
 ## Built With
 
 - [React](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
 - [Redux Toolkit](https://redux-toolkit.js.org/)
 - [AWS Amplify](https://aws.amazon.com/amplify/)
