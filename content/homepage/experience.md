@@ -9,15 +9,11 @@ experiences:
     dates: "Jan 2021 - Dec 2022"
     location: Vancouver, BC
     writeup: >
-      Sultans is a Shopify partner helping businesses to migrate to Shopify.
+      - Lead a successful migration and launch of an established e-commerce retailer by implementing custom front-end modules and integrating existing CRM with Shopify using AWS Lambda.
 
-      - Built admin dashboards and multi-page wizards using JavaScript, React and HTML/CSS
+      - Streamlined the front-end development process by identifying common custom components across different stores and creating reusable code modules.
 
-      - Collaborated closely with UX designers to create visually appealing and responsive pages using HTML/CSS
-
-      - Implemented serverless solutions with Node.js, TypeScript and AWS to connect back-end with Shopify
-
-      - As the first hire of the startup, established onboarding documentation and trained new front-end developers.
+      - Onboarded 4 new developers across front-end and cloud development workflows within a week by writing documentations and providing guidance to their first contributions through one-on-one coding sessions.
 
   - title: Co-op Front-end Developer
     organization:
@@ -26,13 +22,11 @@ experiences:
     dates: "May 2019 - Dec 2019"
     location: Vancouver, BC
     writeup: >
-      - Contributed to building a managed WordPress hosting service by developing a front-end dashboard with React and Typescript
+      - Automated a version control workflow of the internal React library used across multiple front-end teams by writing a modular Typescript script which integrated with GitHub and npm API.
 
-      - Created reusable components with React hooks based off designer's wireframes
-       
-      - Maintained an internal React + TypeScript UI Library used across multiple front-end teams
+      - Enhanced the user satisfaction of a managed WordPress hosting service, measured by internal testing, by implementing a dynamic loading page that reflects the live status of a prolonged back- end jobs.
 
-      - Implemented automated version control for the internal UI library using TypeScript scripts
+      - Promoted best practices for front-end development across internal teams by working with the lead developer to create and maintain an internal UI library, and guiding developers in their use through code reviews.
 
 weight: 2
 widget:
