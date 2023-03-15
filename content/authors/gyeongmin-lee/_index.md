@@ -35,5 +35,5 @@ Other things I enjoy (in no particular order): bass guitar, skateboarding, Manch
 ## Skills
 
 - **Front End**: React, Redux, TypeScript, JavaScript (ES6+), HTML, CSS, SCSS, Flutter, npm, webpack
-- **Back End**: AWS (SAM / Lambda - Node.js / SQS / DynamoDB / EC2 / S3 ), Google Firebase, SQL
+- **Back End**: AWS (SAM / Lambda - Node.js / SQS / DynamoDB / EC2 / S3), Google Firebase, SQL
 - **Other**: Git, GitHub, Docker, GraphQL
