@@ -9,7 +9,7 @@ experiences:
     dates: "Jan 2021 - Dec 2022"
     location: Vancouver, BC
     writeup: >
-      - Led a successful migration and launch of an e-commerce retailer with by implementing front-end JavaScript modules and integrating existing CRM with Shopify using AWS Lambda Serverless (Node.js + Typescript).
+      - Led a successful migration and launch of an e-commerce retailer by implementing front-end JavaScript modules and integrating existing CRM with Shopify using AWS Lambda Serverless (Node.js + Typescript).
 
       - Achieved a 2-week reduction in total front-end development time by identifying the common requirements of essential functionalities used across different e-commerce websites and creating reusable and configurable components.
 
