@@ -2,6 +2,13 @@
 title: Experience
 draft: false
 experiences:
+  - title: Software Developer
+    organization:
+      name: Fast & Slick
+      url: https://fastandslick.com/
+    dates: "June 2023 - Now"
+    location: Vancouver, BC
+
   - title: Full-stack Developer
     organization:
       name: Sultans

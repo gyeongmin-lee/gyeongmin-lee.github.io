@@ -48,7 +48,7 @@ widget:
 
 ## About Myself
 
-Hi 👋 I'm Min, a software engineer with experience in Front-end development and AWS. I'm passionate about using technology to address real-world issues. I'm currently looking for a full-time position in British Columbia.
+Hi 👋 I'm Min, a software engineer with experience in Front-end development and AWS. I'm passionate about using technology to address real-world issues.
 
 In my spare time, I enjoy researching front-end frameworks and how they can be used to build better user experiences. I also enjoy reading books on software development and personal growth. Some of my favourites are [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) and [Code: The Hidden Language of Computer Hardware and Software](https://www.goodreads.com/book/show/44882.Code).
 
