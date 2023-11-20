@@ -4,8 +4,8 @@ draft: false
 experiences:
   - title: Software Developer
     organization:
-      name: Fast & Slick
-      url: https://fastandslick.com/
+      name: Origineer
+      url: https://origineer.ca/
     dates: "June 2023 - Now"
     location: Vancouver, BC
 
