@@ -30,7 +30,7 @@ In my spare time, I enjoy researching front-end frameworks and how they can be u
 
 I graduated with a diploma in Computer Systems Technology from BCIT in 2020, concentrating in Web Development and Cloud Computing. I gained extensive practical experience through various projects.
 
-Other things I enjoy (in no particular order): bass guitar, skateboarding, Manchester United, lego, and bible study.
+Other things I enjoy (in no particular order): bass guitar, skateboarding, Manchester United, and lego.
 
 ## Skills
 
