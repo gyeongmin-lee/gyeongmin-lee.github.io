@@ -3,3 +3,12 @@
 Welcome to the source files of my personal website.
 
 This website is built with [Hugo](https://gohugo.io/), a static site generator written in Go. The theme is [Eureka](https://themes.gohugo.io/themes/hugo-eureka/).
+
+## Build
+
+The site requires Node.js 22 or later and Hugo Extended 0.165.0.
+
+```sh
+npm ci
+npm run build
+```

@@ -1,0 +1,19 @@
+{
+  "name": "gyeongmin-lee.github.io",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "hugo --minify --gc --cleanDestinationDir"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "0.5.20",
+    "autoprefixer": "10.5.4",
+    "cssnano": "9.0.2",
+    "postcss": "8.5.26",
+    "postcss-cli": "11.0.1",
+    "tailwindcss": "3.4.19",
+    "tailwindcss-rtl": "0.9.0"
+  }
+}
