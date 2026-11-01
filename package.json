@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "@tailwindcss/typography": "0.5.20",
-    "autoprefixer": "10.5.4",
+    "autoprefixer": "10.6.2",
     "cssnano": "9.0.2",
     "postcss": "8.5.26",
     "postcss-cli": "11.0.1",
